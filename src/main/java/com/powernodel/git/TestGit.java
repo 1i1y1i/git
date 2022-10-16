@@ -14,5 +14,6 @@ public class TestGit {
         System.out.println("13:37");
         System.out.println("pull");
         System.out.println("test push again");
+        System.out.println(20 +"test");
     }
 }
