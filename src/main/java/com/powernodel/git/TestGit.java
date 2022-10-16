@@ -16,6 +16,7 @@ public class TestGit {
         System.out.println("test push again");
         System.out.println(20 +"test");
         System.out.println(20 +"testPull");
+        System.out.println("test master20");
        
     }
 }
