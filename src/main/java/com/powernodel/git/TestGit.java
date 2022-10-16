@@ -13,5 +13,6 @@ public class TestGit {
         System.out.println("hot-fix2");
         System.out.println("13:37");
         System.out.println("pull");
+        System.out.println("test push again");
     }
 }
