@@ -20,6 +20,7 @@ public class TestGit {
         System.out.println("test fast");
         System.out.println("直接提交");
         System.out.println(33);
+        System.out.println("pull again");
 
     }
 }
