@@ -18,6 +18,7 @@ public class TestGit {
         System.out.println(20 +"testPull");
         System.out.println("test master20");
         System.out.println("test fast");
+        System.out.println("直接提交");
 
     }
 }
